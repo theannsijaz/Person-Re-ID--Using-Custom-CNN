@@ -24,7 +24,7 @@ A Final Year Project that explores **Person Re-Identification (Re-ID)** using a 
 ├── EHTM_Sampler.py                # P×K sampler for hard triplets
 ├── reid_model_3.2.pth             # Pre-trained weights (≈1.3 MB compressed)
 │
-├── Dataset/                       # (not tracked) expected Market-1501 style data
+├── Dataset/                       
 │   ├── train/ person_id/ imgs...
 │   ├── val/   person_id/ imgs...
 │   ├── query/  *.jpg
