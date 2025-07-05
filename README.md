@@ -159,10 +159,7 @@ See the `Detailed Result Analysis - 2nd Attempt/` folder for full breakdown.
 
 ## 6. Acknowledgements
 
-This project was developed as part of the *B.Sc. Computer Science* Final Year Project (2024).  Inspiration stems from:
-* [CBAM: Convolutional Block Attention Module (Woo et al., ECCV 2018)](https://arxiv.org/abs/1807.06521)
-* [Market-1501 Dataset](https://github.com/zhunzhong07/Market-1501)
-* PyTorch & FAISS communities
+This research is being done as part of the *B.Sc. Artificial Inteligence* Final Year Project (2025).
 
 
 
