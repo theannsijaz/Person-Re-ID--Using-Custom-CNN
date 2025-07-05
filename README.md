@@ -164,14 +164,10 @@ This project was developed as part of the *B.Sc. Computer Science* Final Year Pr
 * [Market-1501 Dataset](https://github.com/zhunzhong07/Market-1501)
 * PyTorch & FAISS communities
 
----
 
-## 7. License
-
-All source code is released under the **MIT License** (see `LICENSE`).  The included pretrained weights and result artefacts are free for academic & non-commercial use.  Datasets remain under their respective licenses.
 
 ---
 
-## 8. Contact
+## 7. Contact
 
-For questions, please open an issue or reach out: **ann.sijaz@[institution].edu** 
+For questions, please open an issue or reach out: **annsijaz@outlook.com** 
