@@ -1,0 +1,16 @@
+Metric,Value
+top_1,0.2625
+top_3,0.4276
+top_5,0.5056
+top_10,0.6134
+mAP,0.3263
+CMC_Rank_1,0.2625
+CMC_Rank_2,0.3622
+CMC_Rank_3,0.4276
+CMC_Rank_4,0.4712
+CMC_Rank_5,0.5056
+CMC_Rank_6,0.5324
+CMC_Rank_7,0.5588
+CMC_Rank_8,0.5781
+CMC_Rank_9,0.5962
+CMC_Rank_10,0.6134

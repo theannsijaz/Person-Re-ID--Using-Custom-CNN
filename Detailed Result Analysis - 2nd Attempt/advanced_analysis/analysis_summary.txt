@@ -1,0 +1,33 @@
+=== Person Re-ID Retrieval Analysis Summary ===
+
+Total Queries Processed: 3368
+Total Gallery Images: 19732
+Unique Person IDs in Query: 750
+Unique Person IDs in Gallery: 752
+
+=== Performance Metrics ===
+Top_1: 0.2625
+Top_3: 0.4276
+Top_5: 0.5056
+Top_10: 0.6134
+mAP: 0.3263
+
+=== Rank-based Performance (CMC) ===
+Rank-1: 0.2625
+Rank-2: 0.3622
+Rank-3: 0.4276
+Rank-4: 0.4712
+Rank-5: 0.5056
+Rank-6: 0.5324
+Rank-7: 0.5588
+Rank-8: 0.5781
+Rank-9: 0.5962
+Rank-10: 0.6134
+
+=== Analysis Files Generated ===
+- Confusion Matrix: Detailed Result Analysis - 2nd Attempt/advanced_analysis/confusion_matrix.png
+- CMC Curve: Detailed Result Analysis - 2nd Attempt/advanced_analysis/cmc_curve.png
+- t-SNE Embedding Plot: Detailed Result Analysis - 2nd Attempt/advanced_analysis/embedding_visualization_tsne.png
+- UMAP Embedding Plot: Detailed Result Analysis - 2nd Attempt/advanced_analysis/embedding_visualization_umap.png
+- Performance Chart: Detailed Result Analysis - 2nd Attempt/advanced_analysis/performance_chart.png
+- Attention Heatmaps: Detailed Result Analysis - 2nd Attempt/attention_maps/ (10 samples)
